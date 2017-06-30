@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="ask_for_bill">Bill ($)</string>
+    <string name="ask_for_tip">Tip (%)</string>
+    <string name="calculate">Calculate</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="about_action">About</string>
+</resources>
